@@ -65,6 +65,9 @@ input {
   padding: 5px;
   display: inline-block;
 }
+span {
+  margin-left: 50px;
+}
 @media screen and (max-width: 600px) {
   img {
     width: 200px;
